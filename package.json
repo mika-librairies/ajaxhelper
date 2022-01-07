@@ -1,0 +1,19 @@
+{
+  "name": "ajaxhelper",
+  "version": "1.0.0",
+  "description": "ajax helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mika-librairies/ajaxhelper.git"
+  },
+  "author": "mika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mika-librairies/ajaxhelper/issues"
+  },
+  "homepage": "https://github.com/mika-librairies/ajaxhelper#readme"
+}
